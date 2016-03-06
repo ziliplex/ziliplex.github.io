@@ -1,5 +1,11 @@
+body {
+	height: 100vh;
+}
 .logo-centered {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+    width: 10vw;
+    margin: 50vh 50vw;
+    transform: translate(-5vw,-15vh);
 }
